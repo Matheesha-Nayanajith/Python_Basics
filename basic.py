@@ -133,14 +133,44 @@
 # print(y)
 # print(x)
 
-x = {
-    "a": ['Hello', 'Hi', 'Good morning'],
-    "b": ['Bye', "Good Night"],
-    "c": 16
-}
-y = x['a']
-y.append('aayubowan')
-z = x["c"]
-z = 17
-print(x)
+# x = {
+#     "a": ['Hello', 'Hi', 'Good morning'],
+#     "b": ['Bye', "Good Night"],
+#     "c": 16
+# }
+# y = x['a']
+# y.append('aayubowan')
+# z = x["c"]
+# z = 17
+# print(x)
+
+#x = {"Hello", "World", "1", "1"}
+# x.add("world")
+# x.add("world")#hash function 
+# x.remove('1')
+# print(x)
+
+#x = {'A','B'}
+# x = {"Hello", "World", "1", "1"}
+# y = {"x","y"}
+
+#z = x.union(y)
+# z = x | y
+# print(z)
+
+# x = {"Hello", "World", "1", "2", "3"}
+# y = {"1","2"}
+
+# z = x - y
+# print(z)
+
+# x = {"Hello", "World", "1", "2", "3"}
+# y = {"1","2"}
+# print("1" not in y)
+
+# x = {"Hello", "World", "1", "2", "3"}
+# y = {"1","2"}
+# z = {"1": 2}
+
+# print(2 in z)
 
